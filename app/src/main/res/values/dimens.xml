@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_1">50dp</dimen>
+    <dimen name="btn_width">150dp</dimen>
+    <dimen name="ts_title">50sp</dimen>
+    <dimen name="ts_title2">40sp</dimen>
+    <dimen name="margin_2">25dp</dimen>
+    <dimen name="_340dp">340dp</dimen>
+    <dimen name="_560dp">560dp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="_200dp">200dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="_4dp">4dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="_100dp">100dp</dimen>
+    <dimen name="_75dp">75dp</dimen>
+</resources>
